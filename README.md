@@ -1,4 +1,4 @@
-# ImageEnhancement
+# Document Image Enhancement
 A solution to document Image Enhancement by modelling it as an Optimisation Problem
 
 # Input
